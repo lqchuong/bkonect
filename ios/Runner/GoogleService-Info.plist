@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>150334531027-tn0cvgclqvpds9r6m1m32h5nr97a5m3c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.150334531027-tn0cvgclqvpds9r6m1m32h5nr97a5m3c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAR8fa2cH0fNPw2Vt75h7_mwH2K9RCNvxA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>150334531027</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.worldsoft.bkonek</string>
+	<key>PROJECT_ID</key>
+	<string>worldsoftmaintain</string>
+	<key>STORAGE_BUCKET</key>
+	<string>worldsoftmaintain.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:150334531027:ios:4680a34de1339e47123b26</string>
+	<key>DATABASE_URL</key>
+	<string>https://worldsoftmaintain.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+[
+    {
+        "ten": "Lúa gạo",
+        "hinhanh": "https://www.googleapis.com/download/storage/v1/b/retail_app/o/a67fabd0-74c4-4299-8910-9b88e6c22bd9%2F0c04cd18-3689-11ea-b026-faaa97ae138d637165137819772756.png?generation=1580892380594304&alt=media"
+    },
+    {
+        "ten": "Rau củ",
+        "hinhanh": "https://www.googleapis.com/download/storage/v1/b/retail_app/o/a67fabd0-74c4-4299-8910-9b88e6c22bd9%2F0c04cd18-3689-11ea-b026-faaa97ae138d637165137819772756.png?generation=1580892380594304&alt=media"
+    },
+    {
+        "ten": "Trái cây",
+        "hinhanh": "https://www.googleapis.com/download/storage/v1/b/retail_app/o/a67fabd0-74c4-4299-8910-9b88e6c22bd9%2F0c04cd18-3689-11ea-b026-faaa97ae138d637165137819772756.png?generation=1580892380594304&alt=media"
+    },
+    {
+        "ten": "Trâu/bò",
+        "hinhanh": "https://www.googleapis.com/download/storage/v1/b/retail_app/o/a67fabd0-74c4-4299-8910-9b88e6c22bd9%2F0c04cd18-3689-11ea-b026-faaa97ae138d637165137819772756.png?generation=1580892380594304&alt=media"
+    },
+    {
+        "ten": "Lợn",
+        "hinhanh": "https://www.googleapis.com/download/storage/v1/b/retail_app/o/a67fabd0-74c4-4299-8910-9b88e6c22bd9%2F0c04cd18-3689-11ea-b026-faaa97ae138d637165137819772756.png?generation=1580892380594304&alt=media"
+    },
+    {
+        "ten": "Gà",
+        "hinhanh": "https://www.googleapis.com/download/storage/v1/b/retail_app/o/a67fabd0-74c4-4299-8910-9b88e6c22bd9%2F0c04cd18-3689-11ea-b026-faaa97ae138d637165137819772756.png?generation=1580892380594304&alt=media"
+    },
+    {
+        "ten": "Thủy sản",
+        "hinhanh": "https://www.googleapis.com/download/storage/v1/b/retail_app/o/a67fabd0-74c4-4299-8910-9b88e6c22bd9%2F0c04cd18-3689-11ea-b026-faaa97ae138d637165137819772756.png?generation=1580892380594304&alt=media"
+    },
+    {
+        "ten": "Thực phẩm chín",
+        "hinhanh": "https://www.googleapis.com/download/storage/v1/b/retail_app/o/a67fabd0-74c4-4299-8910-9b88e6c22bd9%2F0c04cd18-3689-11ea-b026-faaa97ae138d637165137819772756.png?generation=1580892380594304&alt=media"
+    },
+    {
+        "ten": "Khác",
+        "hinhanh": "https://www.googleapis.com/download/storage/v1/b/retail_app/o/a67fabd0-74c4-4299-8910-9b88e6c22bd9%2F0c04cd18-3689-11ea-b026-faaa97ae138d637165137819772756.png?generation=1580892380594304&alt=media"
+    }
+    
+]

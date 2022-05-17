@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247263152493",
+    "firebase_url": "https://worldsoftbkonek.firebaseio.com",
+    "project_id": "worldsoftbkonek",
+    "storage_bucket": "worldsoftbkonek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247263152493:android:9591f3522570b61d953264",
+        "android_client_info": {
+          "package_name": "com.worldsoft.bkonek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247263152493-bm5gtd3on5k4uog237c1ru7ib1ft0c5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmb0_bM6dGlAQ3IoojN9RKPM5HNziJ0Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247263152493-bm5gtd3on5k4uog237c1ru7ib1ft0c5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

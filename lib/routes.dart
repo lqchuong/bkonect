@@ -1,0 +1,29 @@
+class Routes {
+  static final home = "/";
+  static final login = "/login";
+  static final not_implement = "/not_implement";
+  static final RegisterPage = "/RegisterPage";
+  static final RegisterInfoPage = "/RegisterInfoPage";
+  static final EventIndexPage = "/EventIndexPage";
+  static final EventDetailPage = "/EventDetailPage";
+  static final TicketPage = "/TicketPage";
+  static final ContentEventPage = "/ContentEventPage";
+  static final CompanyEventPage = "/CompanyEventPage";
+  static final CompanyEventDetailPage = "/CompanyEventDetailPage";
+  static final QAndAPage = "/QAndAPage";
+  static final ReviewPage = "/ReviewPage";
+  static final CalendarPage = "/CalendarPage";
+  static final FindPartner = "/FindPartner";
+  static final MeetingPage = "/MeetingPage";
+  static final CooperatePage = "/CooperatePage";
+  static final SettingPage = "/SettingPage";
+  static final NotificationIndexPage = "/NotificationIndexPage";
+  static final EditUserInfo = "/EditUserInfo";
+  static final RegisterCompany = "/RegisterCompany";
+  static final ForgetPasswordPage = "/ForgetPasswordPage";
+  static final ChangePasswordPage = "/ChangePasswordPage";
+  static final WaitingConfirm = "/WaitingConfirm";
+  static final NotificationDetailPage = "/NotificationDetailPage";
+  static final PostReview = "/PostReview";
+  static final SearchPartner = "/SearchPartner";
+}
